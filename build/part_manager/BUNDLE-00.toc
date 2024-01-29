@@ -1,0 +1,3 @@
+([('part_manager',
+   '/Users/zoey/Documents/Code/python/part_manager/dist/part_manager',
+   'EXECUTABLE')],)
